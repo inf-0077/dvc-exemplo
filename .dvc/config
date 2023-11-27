@@ -2,3 +2,5 @@
     remote = gdrive
 ['remote "gdrive"']
     url = gdrive://1vwP_tOH-0VR8HlUH8Z1r2f-SQ5BnfoG4
+['remote "meusharepoint"']
+    url = c:\temp\

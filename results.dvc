@@ -1,0 +1,7 @@
+outs:
+- md5: 774bf5351c67af8ed686c867c7d762e7.dir
+  size: 11
+  nfiles: 1
+  hash: md5
+  path: results
+  remote: meusharepoint
